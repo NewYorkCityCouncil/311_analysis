@@ -1,6 +1,6 @@
-#311 Resolution Analysis
+# 311 Resolution Analysis
 
-##Objective
+## Objective
 
 Utilize 311 data, publicly available via New York City's Open Data Portal, to analyze the efficiency in agency's responses to service requests
 
